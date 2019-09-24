@@ -4,6 +4,7 @@
   "parameters": {
     "workspaceName": {
       "type": "string",
+      "defaultValue": "AzureDatabricksTemplate01",
       "metadata": {
         "description": "The name of the Azure Databricks workspace to create."
       }

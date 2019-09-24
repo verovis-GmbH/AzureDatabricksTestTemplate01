@@ -4,6 +4,6 @@
   "itemDisplayName": "Deploy a verovis Azure Databricks Workspace",
   "description": "This template allows you to create an Azure Databricks workspace.",
   "summary": "Deploy an Azure Databricks workspace.",
-  "githubUsername": "jeffpang",
+  "githubUsername": "mriedesel",
   "dateUpdated": "2019-09-24"
 }
