@@ -1,7 +1,7 @@
 {
   "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
   "type": "QuickStart",
-  "itemDisplayName": "Deploy a verovis Azure Databricks Workspace",
+  "itemDisplayName": "the verovis Azure Databricks Workspace TestTemplate 01",
   "description": "This template allows you to create an Azure Databricks workspace.",
   "summary": "Deploy an Azure Databricks workspace.",
   "githubUsername": "mriedesel",
