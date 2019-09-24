@@ -1,13 +1,6 @@
 # Deploy a verovis Azure Databricks Workspace
 
-<IMG SRC="https://azbotstorage.blob.core.windows.net/badges/101-databricks-workspace/PublicLastTestDate.svg" />&nbsp;
-<IMG SRC="https://azbotstorage.blob.core.windows.net/badges/101-databricks-workspace/PublicDeployment.svg" />&nbsp;
-
-<IMG SRC="https://azbotstorage.blob.core.windows.net/badges/101-databricks-workspace/FairfaxLastTestDate.svg" />&nbsp;
-<IMG SRC="https://azbotstorage.blob.core.windows.net/badges/101-databricks-workspace/FairfaxDeployment.svg" />&nbsp;
-
-<IMG SRC="https://azbotstorage.blob.core.windows.net/badges/101-databricks-workspace/BestPracticeResult.svg" />&nbsp;
-<IMG SRC="https://azbotstorage.blob.core.windows.net/badges/101-databricks-workspace/CredScanResult.svg" />&nbsp;
+<IMG SRC="https://www.verovis.de/typo3conf/ext/verovis_template/Resources/Public/Images/logo/verovis-header.jpg" />
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-databricks-workspace%2Fazuredeploy.json" target="_blank">
     <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png"/>
